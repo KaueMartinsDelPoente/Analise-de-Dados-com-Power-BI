@@ -25,6 +25,9 @@ Neste projeto, utilizei o tutorial "Power BI para Iniciantes" do DataCamp para a
 ### Insights
 - Resumo das descobertas, como padrões de vendas, comportamentos de clientes, etc.
 
+- ## Demonstração
+- ![Link para o projeto no GitHub](https://github.com/KaueMartinsDelPoente/Analise-de-Dados-com-Power-BI/blob/main/DASHBOARD.PNG)
+
 ## Conclusão
 Este projeto não apenas aprimorou minhas habilidades em Power BI, mas também me permitiu entender melhor a importância da visualização de dados na tomada de decisões.
 
